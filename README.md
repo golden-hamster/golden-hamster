@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=golden-hamster&show_icons=true&theme=radical)
 -->
+![KakaoTalk_20240713_160445024_01](https://github.com/user-attachments/assets/9111b78e-b2a0-48a7-bb96-114eb8ae4297)
